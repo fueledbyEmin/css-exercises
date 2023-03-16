@@ -1,0 +1,15 @@
+.black,
+.yellow {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    border-style: outset;
+}
+
+.black {
+    color: white;
+    background-color: black;
+}
+
+.yellow{
+    color: black;
+    background-color: yellow;
+}
